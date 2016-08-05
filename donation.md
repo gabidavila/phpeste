@@ -19,8 +19,8 @@ This amount is in **Reais**, we use the **comma** as **decimal** separator, so _
 The next window is the confirmation one:
 
 The number:
-1. It means that you want to give the **website**, _not_ the conference, a donation, it's optional.
 
+1. It means that you want to give the **website**, _not_ the conference, a donation, it's optional.
 2. It Means if you want your donation to be anonymous
 
 ![Contribuição](/images/contribuicao.png)
