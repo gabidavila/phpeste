@@ -2,10 +2,10 @@
 
 ## How to create an account
 
-1. Go to [http:///www.benfeitoria.com](http:///www.benfeitoria.com) and click "login", a pop up will appear and you can click on "cadastre-se":
+1. Go to [http:///www.benfeitoria.com](http:///www.benfeitoria.com) and click "login", a pop up will appear and you can click on "criar conta":
 ![Cadastre-se](/images/criar_conta.png)
 
-2. You will see this window, you can use Facebook or type your details. Click on "**Pessoa Jurídica**"
+2. You will see this window, you can use Facebook or type your details. Click on "**Pessoa Física**"
 ![Cadastro](/images/cadastro.png)
 
 3. This is a translation of the form:
