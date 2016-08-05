@@ -10,8 +10,8 @@ The conference will happen between October the 8th and October the 09th, this ti
 
 There will be two days of learning and hands on. The event will have international speakers, recognized names of the Brazilian community and more the 16h of quality talks, minicourses and hackathons focused on the event theme: growth and collaboration.
 
-This is not just another event for you to add to your CV, you will do networking, experiment a awesome time with people from the communnity and this is why we need your help! Is an even from the communnity to the communnity.
+This is not just another event for you to add to your CV, you will do networking, experiment a awesome time with people from the community and this is why we need your help! Is an even from the community to the community.
 
 # Why we need your help
 
-We
+We will be hosting the event on the IFBA (Federal Institute of Bahia), a federal school, so we can keep the costs down. However we chose the website [Benfeitoria](http://www.benfeitoria.com) to help with
