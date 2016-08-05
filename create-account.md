@@ -34,3 +34,7 @@
   Click on "*Criar*" after filling up the form.
 
 ![Form](/images/form.png)
+
+## Make your donation
+
+Just click here to make a [donation](donation.md).
