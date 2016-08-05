@@ -20,4 +20,4 @@ Our goal is to raise __R$10,000.00__ to pay for speaker's travel arrangements, i
 
 # How do I help
 
-Just follow our [Tutorial](tutorial).
+Just follow our [Tutorial](tutorial.md).
