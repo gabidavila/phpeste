@@ -1,4 +1,6 @@
-# How to create an account
+#Tutorial
+
+## How to create an account
 
 1. Go to [http:///www.benfeitoria.com](http:///www.benfeitoria.com) and click "login", a pop up will appear and you can click on "cadastre-se":
 ![Cadastre-se](/images/criar_conta.png)
@@ -8,17 +10,17 @@
 
 3. This is a translation of the form:
 
-  * Email*****
-  * Password*****
-  * Retype Password*****
-  * Fullname*****
-  * Date of Birth*****
+  * Email*
+  * Password*
+  * Retype Password*
+  * Fullname*
+  * Date of Birth8
   * Gender
-  * Country*****
-  * State/Province*****
-  * City******
+  * Country*
+  * State/Province*
+  * City*
 
-  Fields marked with ***** are mandatory.
+  Fields marked with * are mandatory.
 
   A quick translation of the name of your country:
 
