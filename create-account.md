@@ -31,7 +31,7 @@
   * _Reino Unido_ = United Kingdom
   * _Estados Unidos_ = United States
 
-  Click on "*Criar*" after filling up the form.
+  Click on "**Criar**" after filling up the form.
 
 ![Form](/images/form.png)
 
