@@ -17,3 +17,7 @@ This is not just another event for you to add to your CV, you will do networking
 We will be hosting the event on the IFBA (Federal Institute of Bahia), a federal school, so we can keep the costs down. However we chose the website [Benfeitoria](http://www.benfeitoria.com) to help with the fundraising part. This is a tutorial to help you non-Portuguese speaker to know how to help us. This website doesn't demand a % over the amount gathered, in the end _you_ can choose to donate to them or not.
 
 Our goal is to raise __R$10,000.00__ to pay for speaker's travel arrangements, invest in the conference and other costs involved.
+
+# How do I help
+
+Just follow our [Tutorial](tutorial).
