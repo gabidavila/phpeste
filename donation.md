@@ -14,7 +14,7 @@ If you tick that box, the Rewards table will disappear and this will show:
 
 ![Valor](/images/amount.png)
 
-This amount is in **Reais**, we use the **comma** as **decimal** separator, so _don't_ be scared by it! The conversion rate will depend how you set up PayPal. Click in "**Continuar**".
+This amount is in **Brazilian Reais**, we use the **comma** as **decimal** separator, so _don't_ be scared by it! The conversion rate will depend how you set up PayPal. Click in "**Continuar**".
 
 The next window is the confirmation one:
 
