@@ -2,7 +2,7 @@
 
 ## About the conference
 
-PHPeste is a PHP conference organized by the comunidades "cabra da peste" from the Brazilian Northeast. It's formed by 9 states, and is one of the biggest brazilian conferences.  Last year was our first, in João Pessoa (PB). This time Salvador (BA) has the honor of hosting the event.
+PHPeste is a PHP conference organized by the "cabra da peste" communities from the Brazilian Northeast. It's formed by 9 states, and is one of the biggest brazilian conferences.  Last year was our first, in João Pessoa (PB). This time Salvador (BA) has the honor of hosting the event.
 
 The conference will happen between October the 8th and October the 09th. This time of the year we have spring on our side and a beautiful city to visit and shake!
 
